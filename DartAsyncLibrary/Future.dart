@@ -1,5 +1,9 @@
-// The dart:async library works in both web apps and command-line 
-// apps. To use it, import dart:async:
+//
+// dart:async Library
+// Original website:
+// https://dart.dev/guides/libraries/library-tour#future
+// 
+
 
 import 'dart:async';
 
