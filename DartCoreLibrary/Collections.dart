@@ -158,3 +158,7 @@ void collections() {
   print(teas.every(isDecaffeinated)); // false
 
 }
+
+void main() {
+  collections(); 
+}
